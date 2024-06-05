@@ -3,11 +3,8 @@ node_modules
 *.xml
 *.test.ts
 code-generator.ts
-lib
 !dist/lib
 jest.config.js
 *.tgz
-index.ts
 sanity-check.js
 tests
-tsconfig.json
